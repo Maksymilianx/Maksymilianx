@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maksymilianx
-- 👀 I’m interested in Python projects
-- 🌱 I’m currently learning testing
-- 💞️ I’m looking to collaborate on any Python project
+- 👀 I’m interested in Python and Java projects
+- 🌱 I’m currently learning Java
+- 💞️ I’m willing to collaborate on any Python and Java project
 - 📫 How to reach me - www.linkedin.com/in/maksymilian-krajewski-a013871b5
 
 <!---
